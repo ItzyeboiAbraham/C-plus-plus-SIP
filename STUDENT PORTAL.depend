@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1753129926 source:c:\users\itzyeboiabraham\desktop\c++ projects\student portal\main.cpp
+	<iostream>
+	<string>
+	<limits>
+
